@@ -2,7 +2,7 @@
 
 A Nusatech test Flutter project.
 
-![Screenshot]('cd../screenshot\screenshow-emulator.png')
+![Screenshot]('../screenshot/screenshow-emulator.png')
 
 ## Getting Started
 
