@@ -1,6 +1,8 @@
 # flutter_bene
 
-A new Flutter project.
+A Nusatech test Flutter project.
+
+![Screenshot]('screenshot\screenshow-emulator.png')
 
 ## Getting Started
 
